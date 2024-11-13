@@ -1,2 +1,2 @@
 console.log("hi");
-console.loh("version2");
+console.loh("version1");
